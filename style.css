@@ -1,0 +1,64 @@
+.div-top {
+    background-image: url(green-leaves-white-background.jpg);
+    background-size: 150%; 
+    padding-bottom: 0%;
+}
+
+body {
+    font-family:"Merriweather Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.label-work {
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.text-work {
+    font-size: 25px;
+}
+
+.custom-btn {
+    background-color: #367300; 
+    width: 250px;
+    height: 65px;
+    font-size: 25px;
+    border-radius: 5px;
+    text-align: center;
+  }
+
+  .custom-btn:hover {
+    background-color: #2E5D57; 
+    color: white; 
+  }
+
+  .custom-btn:active {
+    background-color: #2E5D57; 
+    color: white; 
+  }
+
+  /* .jumbotron-img {
+    background-color: white;
+  } */
+
+  .character {
+    width: 35%;
+    padding-top: 20px;
+    border-radius: 50%;
+  }
+
+  .jumbotron-intr {
+    background-color: #0A0A0A;
+    padding-top: 0%;
+  }
+
+  /* Remove the navbar's default margin-bottom and rounded borders */ 
+  .navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+  }
+  
+  /* Add a gray background color and some padding to the footer */
+  footer {
+    background-color: #f2f2f2;
+    padding: 25px;
+  }
